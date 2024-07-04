@@ -1,6 +1,6 @@
----
+----
 outline: deep
----
+----
 
 # 安装 Dashboard
 
